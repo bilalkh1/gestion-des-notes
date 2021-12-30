@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gestion des notes</string>
+    <string name="save">Enregistrer</string>
+    <string name="mark">Note</string>
+    <string name="all_modules">Tout les modules</string>
+    <string-array name="modules">
+        <item>Android</item>
+        <item>ML</item>
+        <item>CyberSecurity</item>
+        <item>DBA</item>
+    </string-array>
+</resources>
